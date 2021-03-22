@@ -2,8 +2,7 @@
 
 int main()
 {
-    int a,h;
-    float V;
+    float a,h,V;
 
     std::cin>>a>>h;
     V=(a*a*h)/3;
