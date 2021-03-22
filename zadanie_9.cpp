@@ -2,8 +2,7 @@
 
 int main()
 {
-    int a,b;
-    float x;
+    float a,b,x;
 
     std::cin>>a>>b;
     x=-b/a;
